@@ -108,7 +108,3 @@ vercel
 ## License
 
 © 2025 Vantage. All Rights Reserved.
-
-## Migration Notes
-
-This project was migrated from a static HTML site to Next.js.
