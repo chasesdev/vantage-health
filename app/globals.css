@@ -1,0 +1,24 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+
+  body {
+    @apply bg-black text-white;
+  }
+}
+
+@layer utilities {
+  .quiet-luxury {
+    background-color: #000000;
+    color: #FFFFFF;
+  }
+
+  .brutalist-vibe {
+    background-color: #121212;
+  }
+}

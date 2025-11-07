@@ -55,12 +55,6 @@
 </div>
 </div>
 </section>
-<section id="research" class="py-20 md:py-32">
-<div class="container mx-auto px-6 text-center">
-<h2 class="text-3xl md:text-4xl font-light tracking-tighter mb-4">Research</h2>
-<p class="text-gray-400 max-w-2xl mx-auto">Help us test our cutting edge technologies and join our research program.</p>
-</div>
-</section>
 <section id="experience" class="py-20 md:py-32">
 <div class="container mx-auto px-6 text-center">
 <h2 class="text-3xl md:text-4xl font-light tracking-tighter mb-4">The Vantage Experience</h2>
@@ -103,10 +97,10 @@
 </div>
 </div>
 </section>
-<section id="join" class="py-20 md:py-32">
+<section id="research" class="py-20 md:py-32">
 <div class="container mx-auto px-6 text-center">
-<h2 class="text-3xl md:text-4xl font-light tracking-tighter mb-4">Soon</h2>
-<p class="text-gray-400 max-w-2xl mx-auto mb-8">Unlock Agency. Become a Vantage member and start your journey to peak performance and healthspan.</p>
+<h2 class="text-3xl md:text-4xl font-light tracking-tighter mb-4">Research</h2>
+<p class="text-gray-400 max-w-2xl mx-auto">Help us test our cutting edge technologies and join our research program beginning Feb 2026.</p>
 </div>
 </section>
 </main>
