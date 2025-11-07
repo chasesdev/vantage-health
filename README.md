@@ -26,7 +26,7 @@ Welcome to the Vantage Health landing page - a modern Next.js application built 
 
 ### Prerequisites
 
-- Node.js 18+ installed
+- Node.js 20+ installed
 - npm or yarn package manager
 
 ### Installation
@@ -111,4 +111,4 @@ vercel
 
 ## Migration Notes
 
-This project was migrated from a static HTML site to Next.js. The original `index.html` is preserved as `index.html.backup` for reference.
+This project was migrated from a static HTML site to Next.js.
