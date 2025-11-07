@@ -81,11 +81,11 @@ npm run lint
 
 ## Deployment
 
-This project is configured for automatic deployment to Vercel:
+This project is configured for automatic deployment to Vercel via GitHub Actions:
 
-1. Push to the `develop` branch
-2. Vercel automatically builds and deploys
-3. Preview deployments are created for pull requests
+1. Push to the `develop` branch triggers a production deployment
+2. Pull requests to `develop` create preview deployments
+3. Deployments are orchestrated through GitHub Actions workflow
 
 ### Manual Deployment
 
