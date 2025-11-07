@@ -4,8 +4,6 @@
   "installCommand": "npm install",
   "framework": "nextjs",
   "git": {
-    "deploymentEnabled": {
-      "develop": true
-    }
+    "deploymentEnabled": false
   }
 }

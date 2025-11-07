@@ -1,6 +1,6 @@
-# Vantage Health Club
+# Vantage Health
 
-Welcome to the Vantage Health Club landing page - a modern Next.js application built with TypeScript and Tailwind CSS.
+Welcome to the Vantage Health landing page - a modern Next.js application built with TypeScript and Tailwind CSS.
 
 ## Tech Stack
 

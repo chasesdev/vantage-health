@@ -10,19 +10,19 @@ const roboto = Roboto({
 });
 
 export const metadata: Metadata = {
-  title: "Vantage Health Club | Optimize Your Health with Advanced Diagnostics",
+  title: "Vantage Health | Optimize Your Health with Advanced Diagnostics",
   description: "Vantage gives you a full body scan that lets you benchmark the key markers of healthspan and vitality against real target ranges and real people. Join our research program beginning Feb 2026.",
   keywords: ["health club", "body scan", "preventive health", "VO2 Max", "DEXA scan", "health optimization", "healthspan", "vitality"],
-  authors: [{ name: "Vantage Health Club" }],
+  authors: [{ name: "Vantage Health" }],
   openGraph: {
-    title: "Vantage Health Club | Optimize Your Health",
+    title: "Vantage Health | Optimize Your Health",
     description: "Advanced health diagnostics and preventive care for peak performance and healthspan.",
     type: "website",
     locale: "en_US",
   },
   twitter: {
     card: "summary_large_image",
-    title: "Vantage Health Club | Optimize Your Health",
+    title: "Vantage Health | Optimize Your Health",
     description: "Advanced health diagnostics and preventive care for peak performance and healthspan.",
   },
   robots: {
